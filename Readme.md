@@ -8,4 +8,4 @@ Follow along with my Udemy course lectures to understand how it works, detailed 
 📺 My YouTube Channel (35K Subscribers): https://bit.ly/2Yk0Kbb
 🤳 Instagram: https://www.instagram.com/cloudwithraj/
 🏢 LinkedIN: https://www.linkedin.com/in/rajdeep-sa-at-aws/ 
-🐦 Twitter: https://twitter.com/cloudwithraj tq
+🐦 Twitter: https://twitter.com/cloudwithraj
